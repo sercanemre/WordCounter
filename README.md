@@ -1,0 +1,2 @@
+# WordCounter
+Word counter application
